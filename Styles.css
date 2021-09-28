@@ -1,0 +1,178 @@
+.navbar-brand {
+    padding-bottom:1px;
+    font-size:25px;
+    color:greenyellow;
+}
+
+#i1 {
+    background-position: center;
+    height: 400px;
+    width:550px;
+    margin-left: 370px;
+    padding: 45px;
+}
+#i1:hover {
+    background-position: center;
+    height: 450px;
+    width:550px;
+    margin-left: 370px;
+    padding: 45px;
+}
+
+h6 { 
+    font-family: 'Kaushan Script', cursive;
+    margin-left: 350px;
+    font-size: 60px;
+}
+
+h6:hover{
+    color: darkgoldenrod;
+}
+h1:hover{
+    color: darkgoldenrod;
+}
+h1{
+    text-align: center;
+}
+
+#P1{
+    font-size: 30px;
+}
+#P1:hover{
+    color:dimgrey;
+}
+
+#P2 {
+    font-size:30px;
+    text-align: justify;
+}
+#P2:hover{
+    
+    color: dimgray;
+}
+    
+
+#P3 {
+    font-size: 30px;
+    text-align: center;
+}
+#P3:hover {
+    color:dimgray;
+}
+
+h3{
+    text-align: center;
+}
+
+h3:hover{
+    color:darkgoldenrod;
+}
+.form-group{
+    
+    text-align:center;
+     width:300px;
+    margin-left: 500px;
+}
+
+.form-group:hover{
+    color:darkgoldenrod;
+    background-color:lightgray;
+}
+
+.form-control{
+    text-align: center;
+}
+
+#b5:hover {
+    color:darkgoldenrod;
+}
+
+.container-fluid1{
+    text-decoration: none;
+    background-color:greenyellow;
+    opacity: 0.9;
+    height: 60px;
+    word-spacing: 60px;
+}
+.container-fluid1:hover{
+    text-decoration: none;
+    background-color:greenyellow;
+    height: 150px;
+    word-spacing: 60px;
+    color: black;
+}
+.fa-facebook {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    text-align: center;
+}
+.fa-facebook:hover {
+    font-size: 20px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    display: inline-block;
+}
+
+.fa-twitter {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.fa-twitter:hover {
+    font-size: 20px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    display: inline-block;
+}
+.fa-google:hover {
+    font-size: 20px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    display: inline-block;
+}
+ .fa-google{font-size: 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.fa-linkedin:hover {
+    font-size: 20px;
+    text-decoration: none;
+    color: darkgoldenrod;
+    display: inline-block;
+}
+.fa-linkedin{font-size: 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.img{
+    height: 10px;
+}
+p{
+    text-align: right;
+}
+
+.container-fluid{
+    background-color:lightgray;
+    opacity: 0.8;
+}
+
+body{
+    background-color: lightgreen;
+}
+.img-circle{
+    width: 40px;
+    margin-left:2px;
+    margin-top: 8px;
+}
+
+.img-circle:hover {
+    width: 80px;
+    margin-left:2px;
+    margin-top: 8px;
+    color: darkgoldenrod;
+}
